@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 import { Link } from "react-router-dom";
 const AboutUsPage = () => {
   const BASE_WIDTH = 1440;
-  const BASE_HEIGHT = 6516;
+  const BASE_HEIGHT = 7916;
   const [scale, setScale] = useState(1);
 
   useEffect(() => {
